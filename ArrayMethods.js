@@ -8,6 +8,4 @@ fruits.pop();                   //3- pop => removes the last element from an arr
 fruits.push("Kiwi");            //4- push => adds a new element to an array (at the end)
 fruits.shift();                 //5- shift => removes the first array element
 fruits.unshift("Lemon");        //6- unshift => adds a new element to an array (at the beginning)
-console.log(fruits.join(" * "));
-
-console.log(fruits)
+console.log(fruits.join(" * "));//7- join => 
